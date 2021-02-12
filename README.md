@@ -21,6 +21,8 @@ Since joining the team at BigCommerce, I had the pleasure of attending the BigDe
 
 
 <br/>
+<br/>
+<br/>
 
 <span>
 <img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/Signature_CatalogAPI.jpg" alt="BigDevCatalogBadge"/>
