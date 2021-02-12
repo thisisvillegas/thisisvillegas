@@ -1,4 +1,4 @@
-<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/Andres_Villegas_grey.png" alt="BigDevCatalogBadge"/>
+<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/Andres_Villegas_grey.png" alt="BigDevCatalogBadge"/>
 
 # Welcome! 
 
@@ -16,7 +16,7 @@ My name is Andres Villegas and I am Developer Advocate at BigCommerce, where I s
 
 ## Recent Accomplishments
 ---
-<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/BigDev_2Color_Lockup.png" alt="BigDevBadge" width="250"/>
+<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/BigDev_2Color_Lockup.png" alt="BigDevBadge" width="250"/>
 Since joining the team at BigCommerce, I had the pleasure of attending the BigDev Bootcamp. Through this process I was able to more familiarize myself with the BigCommerce API. 
 
 
@@ -25,10 +25,10 @@ Since joining the team at BigCommerce, I had the pleasure of attending the BigDe
 <br/>
 
 <span>
-<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/Signature_CatalogAPI.jpg" alt="BigDevCatalogBadge"/>
-<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/Signature_Checkout.jpg" alt="BigDevCheckoutBadge"/>
-<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/Signature_StencilEssentials.jpg" alt="BigDevStencilBadge"/>
-<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/Signature_StorefrontAPI.jpg" alt="BigDevStorefrontBadge"/>
+<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/Signature_CatalogAPI.jpg" alt="BigDevCatalogBadge"/>
+<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/Signature_Checkout.jpg" alt="BigDevCheckoutBadge"/>
+<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/Signature_StencilEssentials.jpg" alt="BigDevStencilBadge"/>
+<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/Signature_StorefrontAPI.jpg" alt="BigDevStorefrontBadge"/>
 </span>
 
 <br/>
