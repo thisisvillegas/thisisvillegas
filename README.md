@@ -1,3 +1,5 @@
+<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/Andres_Villegas_grey.png" alt="BigDevCatalogBadge"/>
+
 # Welcome! 
 
 ## Let me introduce myself
@@ -14,13 +16,20 @@ My name is Andres Villegas and I am Developer Advocate at BigCommerce, where I s
 
 ## Recent Accomplishments
 ---
-
+<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/BigDev_2Color_Lockup.png" alt="BigDevBadge" width="250"/>
 Since joining the team at BigCommerce, I had the pleasure of attending the BigDev Bootcamp. Through this process I was able to more familiarize myself with the BigCommerce API. 
 
 
-<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/BigDev_2Color_Lockup.png" alt="BigDevBadge" width="250"/>
+<br/>
 
+<span>
+<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/Signature_CatalogAPI.jpg" alt="BigDevCatalogBadge"/>
+<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/Signature_Checkout.jpg" alt="BigDevCheckoutBadge"/>
+<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/Signature_StencilEssentials.jpg" alt="BigDevStencilBadge"/>
+<img src="https://github.com/thisisvillegas/thisisvillegas/blob/main/Signature_StorefrontAPI.jpg" alt="BigDevStorefrontBadge"/>
+</span>
 
+<br/>
 
 <a href="https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/thisisvillegas">![Twitter badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
