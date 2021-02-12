@@ -4,7 +4,7 @@
 
 ## Let me introduce myself
 
-My name is Andres Villegas and I am Developer Advocate at BigCommerce, where I shares my experience and knowledge in order to empower and enrich the developer community. Prior to BigCommerce, I have experience in engineering, QA, and developer support. When I'm not  building projects using JavaScript, React, Node.js -- I'm behind his guitar, playing for two Austin-based bands, Cilantro Boombox and Superfonicos. 
+My name is Andres Villegas and I am Developer Advocate at BigCommerce, where I shares my experience and knowledge in order to empower and enrich the developer community. Prior to BigCommerce, I have experience in engineering, QA, and developer support. When I'm not  building projects using JavaScript, React, Node.js -- I'm behind my guitar, playing for two Austin-based bands, Cilantro Boombox and Superfonicos. 
 
 ## Projects I am currently working on
 
