@@ -23,7 +23,6 @@ My name is Andres Villegas and I am a Developer Advocate at BigCommerce, where I
 
 
 ## Recent Accomplishments
----
 <img src="assets/BigDev_2Color_Lockup.png" alt="BigDevBadge" width="250"/>
 Since joining the team at BigCommerce, I had the pleasure of attending the BigDev Bootcamp. Through this process I was able to more familiarize myself with the BigCommerce API. 
 
