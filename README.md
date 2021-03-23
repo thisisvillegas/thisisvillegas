@@ -1,4 +1,4 @@
-<img src="assets/Andres_Villegas_grey.png" alt="BigDevCatalogBadge"/>
+<img src="assets/GitHubBanner.png" alt="horizonBanner"/>
 
 # Welcome! 
 
