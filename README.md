@@ -1,4 +1,4 @@
-<img src="assets/GitHubBanner.png" alt="horizonBanner"/>
+<img src="https://github.com/thisisvillegas/BigCommerceDevsCommunityImages/blob/main/GitHubBanner.png" alt="horizon hero banner"/>
 
 # Welcome! 
 
@@ -19,7 +19,8 @@ My name is Andres Villegas and I am a Developer Advocate at BigCommerce, where I
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=synthwave "Andres' Top Languages Card")
 
 ## Recent Accomplishments
-<img src="assets/BigDev_2Color_Lockup.png" alt="BigDevBadge" width="250"/>
+<!-- <img src="assets/BigDev_2Color_Lockup.png" alt="BigDevBadge" width="250"/> -->
+<img src="https://github.com/thisisvillegas/BigCommerceDevsCommunityImages/blob/main/BigDev_2Color_Lockup.png" alt="BigDev_2Color_Lockup.png" width="250"/>
 Since joining the team at BigCommerce, I had the pleasure of attending the BigDev Bootcamp. Through this process I was able to more familiarize myself with the BigCommerce API. 
 
 <br/>
@@ -27,10 +28,14 @@ Since joining the team at BigCommerce, I had the pleasure of attending the BigDe
 <br/>
 
 <span>
-  <img src="assets/Signature_CatalogAPI.jpg" alt="BigDevCatalogBadge"/>
+    <img src="https://github.com/thisisvillegas/BigCommerceDevsCommunityImages/blob/main/Signature_CatalogAPI.jpg" alt="BigDevCatalogBadge"/>
+    <img src="https://github.com/thisisvillegas/BigCommerceDevsCommunityImages/blob/main/Signature_Checkout.jpg" alt="BigDevCheckoutBadge"/>
+    <img src="https://github.com/thisisvillegas/BigCommerceDevsCommunityImages/blob/main/Signature_StencilEssentials.jpg" alt="BigDevStencilBadge"/>
+    <img src="https://github.com/thisisvillegas/BigCommerceDevsCommunityImages/blob/main/Signature_StorefrontAPI.jpg" alt="BigDevStorefrontBadge"/>
+  <!-- <img src="assets/Signature_CatalogAPI.jpg" alt="BigDevCatalogBadge"/>
   <img src="assets/Signature_Checkout.jpg" alt="BigDevCheckoutBadge"/>
   <img src="assets/Signature_StencilEssentials.jpg" alt="BigDevStencilBadge"/>
-  <img src="assets/Signature_StorefrontAPI.jpg" alt="BigDevStorefrontBadge"/>
+  <img src="assets/Signature_StorefrontAPI.jpg" alt="BigDevStorefrontBadge"/> -->
 </span>
 
 <br/>
