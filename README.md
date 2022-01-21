@@ -2,7 +2,7 @@
 
 ## Let me introduce myself
 
-My name is Andres Villegas and I am a QA Automation Engineer with WholeFoods
+My name is Andres Villegas and I am a QA Automation Engineer with AdventHP
 
 ## GitHub Stats
 
